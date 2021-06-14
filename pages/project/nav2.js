@@ -33,11 +33,11 @@ export default function nav2() {
           </ul>
         </li>
         <li>
-          <a href="http://www.jochaho.com/wordpress/category/news/">News</a>
+          <a href="https://209410678.github.io/1091-1N-demo-209410678/w04-div-tku60-js/div_tku60.html">Tku60+js</a>
         </li>
         <li>
-          <a href="http://www.jochaho.com/wordpress/about-pritesh-badge/">
-            Contact Us
+          <a href="https://209410678.github.io/1091-1N-demo-209410678/w05-bootstrap/nav.html">
+          Bootstrap
           </a>
         </li>
       </ul>
