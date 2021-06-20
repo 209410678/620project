@@ -46,7 +46,7 @@ export default function CardsPage() {
           </a>
         </li>
         <li>
-          <a href="./meal">
+          <a href="./review">
             學習心得
           </a>
         </li>
