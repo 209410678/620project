@@ -5,39 +5,44 @@ export default function nav2() {
     <nav class={styles.dropdownmenu}>
       <ul>
         <li>
-          <a href="#">Home</a>
+          <a href="./nav2">Home</a>
         </li>
         <li>
-          <a href="./meals">
-            Mealdb
-          </a>
+          <a href="./meals">Mealdb</a>
         </li>
         <li>
           <a href="#">作品集</a>
           <ul class={styles.submenu}>
             <li>
-              <a href="https://209410678.github.io/1091-1N-demo-209410678/w01-intro-pokemon/pokemon.html">
-            Pokemon
+              <a href="./pokemon">
+                Pokemon
               </a>
             </li>
             <li>
-              <a href="https://209410678.github.io/1091-1N-demo-209410678/w02-blog/blog.html">
-            My Blog
+              <a href="./blog">
+                My Blog
               </a>
             </li>
             <li>
-              <a href="https://209410678.github.io/1091-1N-demo-209410678/w02-imgGallery/imgGallery.html">
-            Image Gallery
+              <a href="./card">
+                card
               </a>
             </li>
           </ul>
         </li>
         <li>
-          <a href="https://209410678.github.io/1091-1N-demo-209410678/w04-div-tku60-js/div_tku60.html">Tku60+js</a>
+          <a href="./meal">
+            w15-1
+          </a>
         </li>
         <li>
-          <a href="https://209410678.github.io/1091-1N-demo-209410678/w05-bootstrap/nav.html">
-          Bootstrap
+          <a href="./meals2">
+            w15-2
+          </a>
+        </li>
+        <li>
+          <a href="./meal">
+            學習心得
           </a>
         </li>
       </ul>
